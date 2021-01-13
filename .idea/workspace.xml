@@ -5,8 +5,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="047bc400-4d37-4104-8f81-4be2d99b7c4a" name="Default Changelist" comment="last1">
-      <change afterPath="$PROJECT_DIR$/sfsf.txt" afterDir="false" />
+    <list default="true" id="047bc400-4d37-4104-8f81-4be2d99b7c4a" name="Default Changelist" comment="last3">
+      <change beforePath="$PROJECT_DIR$/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/info.txt" afterDir="false" />
     </list>
     <list id="6015b36c-f85e-4e5e-8214-5d5c5c87b344" name="" comment="" />
     <list id="b5bcb9f9-d368-4bea-827c-24454544b8a3" name="unnamed" comment="" />
@@ -32,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,6 +46,21 @@
       <updated>1610492161192</updated>
       <workItem from="1610492166653" duration="26000" />
     </task>
+    <task id="LOCAL-00001" summary="last2">
+      <created>1610511697111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610511697111</updated>
+    </task>
+    <task id="LOCAL-00002" summary="last3">
+      <created>1610511758996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610511758996</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,18 +75,27 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="last2" />
+    <MESSAGE value="last3" />
+    <option name="LAST_COMMIT_MESSAGE" value="last3" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="258" y="128" key="SettingsEditor" timestamp="1610511352682">
+    <state x="258" y="128" key="SettingsEditor" timestamp="1610511711169">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="258" y="128" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1610511352682" />
-    <state x="349" y="216" key="Vcs.Push.Dialog.v2" timestamp="1610510703470">
+    <state x="258" y="128" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1610511711169" />
+    <state x="349" y="216" key="Vcs.Push.Dialog.v2" timestamp="1610511836724">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="349" y="216" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1610510703470" />
-    <state x="564" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610510648573">
+    <state x="349" y="216" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1610511836724" />
+    <state x="564" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610511991012">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="564" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1610510648573" />
+    <state x="564" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1610511991012" />
+    <state x="524" y="271" key="git4idea.merge.GitMergeDialog" timestamp="1610511804625">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="524" y="271" key="git4idea.merge.GitMergeDialog/0.0.1500.960@0.0.1500.960" timestamp="1610511804625" />
   </component>
 </project>
