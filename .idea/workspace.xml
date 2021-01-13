@@ -1,367 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc3ad31-a382-4fcb-966f-c60bcaf37a12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/classwork_week4/Classwork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/classwork_week4/Departments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/ex_downloader/Downloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/ex_downloader/TestDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/my_chat/MyClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/my_chat/MyServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/my_chat/RunClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/my_chat/RunServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/my_scanner/MyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/java/my_scanner/TestScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/resources/int_test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/resources/string_test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/resources/string_test1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArtemBrytchenko/src/main/resources/xml_parsing_task" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/C:/ACP12/Gavryil/src/main/resources/private.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week1/ds/tree/MyBinarySearchTreeMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week1/ds/tree/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week1/rec/RecursionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week1/rec/TestReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week1/test/TestMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week1/test/TestMyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week2/myScanner/InputMismatchException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week2/myScanner/MyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week2/myScanner/MyScannerDelimiterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week2/myScanner/MyScannerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/domParsing/DomParsingUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/domParsing/SaxParserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/domParsing/TestDomParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/downloadUtil/DownloaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/downloadUtil/MyDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/gson/GsonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/gson/PrivatDepartment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/objXmlObj/TestConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/objXmlObj/TestObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/vkParser/VkParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week3/xpathTest/TestXpath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week4/RTTIUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week4/RTTIUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week5/threads/DeadLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week5/threads/MonitorTheory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week5/threads/homework/SchedulerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week5/threads/homework/SchedullerTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/IntroJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/dao/AbstractController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/dao/AbstractDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/dao/DaoFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/dao/NoteBookDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/entities/AbstractEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/entities/Gpu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/entities/Hdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/entities/NoteBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/entities/Processor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/entities/Ram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/entities/Screen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/java/utils/JdbcUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/main/recources/database.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/java/week6/shop/src/test/DaoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/ShopDescription.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/TestObject.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/books.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/company.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/company.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/database.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/homeWork.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/private.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/try.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/try2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/main/resources/tryToSave.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/test/java/utilsRTTITest/TestRtti.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/test/java/xmlObjTest/TestXmlObjXml.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/test/resources/testObject.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/src/test/resources/testString.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/Gavryil-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/TestObject.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/books.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/company.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/company.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/database.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/homeWork.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/try.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/try2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/classes/tryToSave.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/surefire-reports/TEST-xmlObjTest.TestXmlObjXml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/surefire-reports/xmlObjTest.TestXmlObjXml.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/test-classes/testObject.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gavryil/target/test-classes/testString.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuziv_P/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuziv_P/src/company.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuziv_P/src/main/DomParsingUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kuziv_P/src/main/RunDomParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Nastia/src/week1/ds/tree/MyBinarySearchTreeMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Nastia/src/week1/ds/tree/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Nastia/src/week1/rec/RecursionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Nastia/src/week1/rec/TestReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Nastia/src/week1/test/TestMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/data_structure/exception/WasNotFound.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/data_structure/my_hashmap/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/data_structure/recursion/RecursionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/decorator_pattern/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/decorator_pattern/ClimateControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/decorator_pattern/Decorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/decorator_pattern/Navigator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/decorator_pattern/Price.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/decorator_pattern/TestDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/decorator_pattern/WheelDiscs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/face_book_search/FaceBookSearcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/face_book_search/LogException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/face_book_search/Parser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/face_book_search/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_chat/RunChat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_chat/controller/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_chat/controller/RunClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_chat/controller/RunServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_chat/controller/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_chat/view/ClientFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_scanner/ManualTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/my_scanner/MyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/progressive_bar/ProgressiveBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/progressive_bar/TestProgressiveBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/web_loader/Loader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/web_loader/TestLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/web_loader/TestSurf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/web_parser/TestWebUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/main/java/web_parser/WebUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/java/test_data_struecture/TestMyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/java/test_data_struecture/TestRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/java/test_my_scanner/TestMyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/resources/bigFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/resources/company.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/resources/emptyFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/resources/nextIntTestFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olejuk/src/test/resources/nextLineTestFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week2/IScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week2/Scanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week2/ScannerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week2/TestScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/DomRunParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/DomUtilsParsing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/ParserXML.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/serializer/obj_json/Formater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/serializer/obj_xml/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/serializer/obj_xml/Bookstore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/serializer/obj_xml/FormatToXml.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week3/serializer/obj_xml/ObjectToXmlParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week4/day1/RTTI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week4/day1/TestRTTI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week4/day2/synchronized_chat/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/java/artcode/week4/day2/synchronized_chat/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/resources/books.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/resources/booksFromObject.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OleksandrMalov/src/main/resources/nextTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/MyMarshaller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/MyParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/MyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/MyXPathParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/TestMyMarshaller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/TestMyParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/TestMyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/TestMyXPathParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/week4/MyImageLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/java/week4/TestMyImageLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/resources/Olena.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/resources/book.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Olena/src/main/resources/positive.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RestJerseyServer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RestJerseyServer/src/main/java/ua/artcode/testio/rest/endpoint/RestStudentEndpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RestJerseyServer/src/main/java/ua/artcode/testio/rest/provider/JsonResponseRequestBodyProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RestJerseyServer/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/blasoUtils/Downloader_BS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/blasoUtils/Math_BS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/blasoUtils/ProgressBar_BS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/blasoUtils/Scanner_BS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week1/MyBinarySearchTreeMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week1/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week2/TestMyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week3/GetExUa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week3/RunSimpleDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week3/TestXPath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week3/XMLToStringParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week4/RTTIUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RomanVoloshyn/src/main/java/week4/TestClassInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/utils/HtmlParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/utils/NetUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week1/ds/tree/MyBinarySearchTreeMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week1/ds/tree/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week1/rec/RecursionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week1/rec/TestReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week1/test/TestMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week2/reflection/Intro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week2/reflection/Robot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week2/reflection/Serializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week2/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/mapping/DepartmentPrivatBank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/mapping/Departmetns.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/mapping/TestMapping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/net/TestNetUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/scanner/MyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/scanner/MyScannerG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/xml/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/xml/DomParsingUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/xml/RunDomParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week3/xml/SaxParserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day1/reflection/RTTIUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day1/reflection/ReflectionFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day1/reflection/Robot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day1/reflection/Save.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day1/reflection/TestClassInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day2/client/RunClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day2/server/RunServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week4/day2/server/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_01intro/_01ThreadIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_02join/_02ThreadJoin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_03java_synchroniz/MyLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_03java_synchroniz/_01Intro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_04concurrency_synch/_01Intro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_05Atomic/_01Intro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_06Collections/TestCollections.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week5/_07ProducerConsumer/TestBlockinQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/common/Inject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/dao/GeneralDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/db/AppDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/di/DependencyInjector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/exception/MyAppException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/exception/MyLoginException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/exception/MyValidationException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/model/MyUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/service/MyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/test/InitAnnotationConfigContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/test/ServiceLocator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/test/TestApplicationContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/test/TestDI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/test/TestInitTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/java/ua/artcode/week8/ioc/validator/GeneralValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/resources/acp12.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/resources/company.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/resources/privat.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/main/resources/week8/app-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/test/java/ua/artcode/scanner/TestMyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/src/test/java/ua/artcode/scanner/TestSerialization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/SerhiiBilobrov-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/classes/company.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/classes/privat.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/surefire-reports/TEST-ua.artcode.scanner.TestMyScanner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/surefire-reports/TEST-ua.artcode.scanner.TestSerialization.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/surefire-reports/ua.artcode.scanner.TestMyScanner.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/target/surefire-reports/ua.artcode.scanner.TestSerialization.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrov/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/java/ua/artcode/week9/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/java/ua/artcode/week9/servlet/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/java/ua/artcode/week9/servlet/UserServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/webapp/WEB-INF/pages/add-user.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/webapp/WEB-INF/pages/all-users.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/webapp/WEB-INF/pages/user-info.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiBilobrovServlets/src/main/webapp/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiOnishchenko/src/myScanner/MyScanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SerhiiOnishchenko/src/myScanner/MyScannerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/NoStudentFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/NoStudentFoundException_Exception.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/ObjectFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/RegisterException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/RegisterException_Exception.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/StudentDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/StudentEndpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/StudentEndpointImplService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/StudentList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/StudentType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/endpoint/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SoapClient/src/main/java/ua/artcode/testio/soap/test/RunClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/aspect/LoggingAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/dao/StudentDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/dao/StudentDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/dto/StudentDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/dto/StudentList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/exception/NoStudentFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/filter/RequestLoggerFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/listener/InitSpringContextListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/model/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/model/IdAutoGeneratedEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/model/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/model/StudentType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/model/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/run/RunSoapServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/service/AdminService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/service/RegisterException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/service/StudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/service/StudentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/servlet/LoginServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/servlet/RegisterServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/soap/endpoint/StudentEndpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/soap/endpoint/StudentEndpointImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/EntityLifecycleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/EntityManagerFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/JPQLExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/TestFetchType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/TestRelations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/TestRelationsV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/jaxb/TestJaxb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/test/spring_run/StartApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/java/ua/artcode/testio/util/DTOConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/resources/app.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/resources/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/resources/orm-spring-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/resources/spring-context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/WEB-INF/pages/all-students.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/WEB-INF/pages/error.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/WEB-INF/pages/include.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/WEB-INF/pages/register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/WEB-INF/pages/student-info.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/html/error.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestioProject/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/ACPFrameworkFinal.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/DB.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/DBACP12.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/Servlet API.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/TestionProject.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/ThreadsWeek5.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/WEEK3.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/WEEK5THREADS.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/WEEK6DB.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/WEEK7HOME.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/WEEK7JPA.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/WEEK8_SPRING.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/WebServices.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/_required_resources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/final.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../home/week2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logging.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="047bc400-4d37-4104-8f81-4be2d99b7c4a" name="Default Changelist" comment="last1" />
+    <list id="6015b36c-f85e-4e5e-8214-5d5c5c87b344" name="" comment="" />
+    <list id="b5bcb9f9-d368-4bea-827c-24454544b8a3" name="unnamed" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -373,7 +19,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mzMr7sW9v9ozFdgaKi38dlnMdY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -398,5 +44,27 @@
       <workItem from="1610492166653" duration="26000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="216" key="Vcs.Push.Dialog.v2" timestamp="1610510703470">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="349" y="216" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1610510703470" />
+    <state x="564" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610510648573">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="564" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960@0.0.1500.960" timestamp="1610510648573" />
   </component>
 </project>
